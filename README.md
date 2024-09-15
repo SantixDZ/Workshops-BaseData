@@ -3,5 +3,5 @@ This repository contains the documentation and code for all the workshops of the
 
 ## Workshop List:
 1. **Workshop 1:** Database Design Apartment
-   - Description: First database design for a set of apartments given certain specifications and adding new ones according to 15 students.
+   - Description: First database design for an apartment complex given certain specifications and adding new ones according to 15 students.
    - Folder: [Workshop 1 Folder](./Workshop1/)
